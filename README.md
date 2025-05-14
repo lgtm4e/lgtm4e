@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**lgtm4e/lgtm4e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  Click 🐱 to visit my blog.🤫
+  <br />
+  <br />
+  <br />
+  
+  
+  <a href="https://blog.j3n5en.com">
+    <img width="250" height="250" src="https://i.loli.net/2020/07/13/fcvXem3bxpgID8O.png" />
+  </a>
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h1 align="center">Looks like something went wrong!</h1>
+<p align="center">We track these errors automatically, but if the problem persists feel free to contact us. In the meantime, try refreshing.</p>
